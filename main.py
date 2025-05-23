@@ -26,4 +26,4 @@ def image_to_ascii(image_path, output_txt="ascii_image.txt", width=500):
     print(f"✅ ASCII Art généré et stocké dans {output_txt} !")
 
 # Test avec une largeur plus petite
-image_to_ascii("findley.jpg", "ascii.txt")
+image_to_ascii("ascii.jpg", "ascii.txt")
