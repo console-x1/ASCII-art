@@ -23,7 +23,7 @@ pip install pillow numpy
 image_to_ascii("ascii.jpg", "ascii.txt", width=1000)
 ```
 
-* Cette ligne est la 29 voici comment la modifier !
+Cette ligne est la n°29 voici comment la modifier :
 * `image_path` : chemin de l’image d’entrée.
 * `output_txt` : nom du fichier texte de sortie (par défaut : `ascii_image.txt`).
 * `width` : largeur de l’image en caractères (par défaut : 500).
